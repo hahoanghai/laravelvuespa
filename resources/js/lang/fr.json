@@ -4,9 +4,13 @@
         "work" : "Travail"
     },
     "home": {
-        "header": "C'est le temps en famille!"
+        "header": "Bonjour Laravel + VueJs",
+        "sub-header": "C'est le temps en famille!",
+        "para": "Décidé pour voyager le monde ? Vous auriez sans doute besoin de la capacité de communiquer dans les langues étrangères pour comprendre l'esprit et le contexte de cette autre culture. L'anglais au service de traduction français par ImTranslator vous aidera dans l'accomplissement d'une traduction immédiate de mots, expressions et textes de l'anglais au français et d'autres langues."
     },
     "work": {
-        "header": "C'est le temps de travail!"
+        "header": "Application simple à une seule page",
+        "sub-header": "C'est le temps de travail!",
+        "para": "L'anglais à la Traduction française fournit l'approche la plus convenable au service de traduction en ligne actionné par les moteurs de traduction automatique différents. L'anglais à l'instrument de Traduction français inclut le service de traduction en ligne, le dictionnaire de référence anglais-français, les services de texte-à-discours anglais et français, les instruments de contrôle de période anglais et français, le clavier sur-écran pour les langues importantes, l'arrière traduction, le client de courrier électronique et beaucoup plus. L'environnement de traduction le plus convenable jamais créé."
     }  
 }

@@ -23,6 +23,8 @@
         </nav>
         <div class='container'>
             <h1>{{ $t('work.header') }}</h1>
+            <h2>{{ $t('work.sub-header') }}</h2>
+            <p>{{ $t('work.para') }}</p>
         </div>
     </div>
 </template>

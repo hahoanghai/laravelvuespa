@@ -1873,6 +1873,8 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   methods: {
     setLocale: function setLocale(locale) {
@@ -1899,6 +1901,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
+//
+//
 //
 //
 //
@@ -39921,7 +39925,11 @@ var render = function() {
     ),
     _vm._v(" "),
     _c("div", { staticClass: "container" }, [
-      _c("h1", [_vm._v(_vm._s(_vm.$t("home.header")))])
+      _c("h1", [_vm._v(_vm._s(_vm.$t("home.header")))]),
+      _vm._v(" "),
+      _c("h2", [_vm._v(_vm._s(_vm.$t("home.sub-header")))]),
+      _vm._v(" "),
+      _c("p", [_vm._v(_vm._s(_vm.$t("home.para")))])
     ])
   ])
 }
@@ -40060,7 +40068,11 @@ var render = function() {
     ),
     _vm._v(" "),
     _c("div", { staticClass: "container" }, [
-      _c("h1", [_vm._v(_vm._s(_vm.$t("work.header")))])
+      _c("h1", [_vm._v(_vm._s(_vm.$t("work.header")))]),
+      _vm._v(" "),
+      _c("h2", [_vm._v(_vm._s(_vm.$t("work.sub-header")))]),
+      _vm._v(" "),
+      _c("p", [_vm._v(_vm._s(_vm.$t("work.para")))])
     ])
   ])
 }
@@ -55339,7 +55351,7 @@ Vue.compile = compileToFunctions;
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse("{\"nav\":{\"home\":\"Home\",\"work\":\"Work\"},\"home\":{\"header\":\"It's family time!\"},\"work\":{\"header\":\"It's working time!\"}}");
+module.exports = JSON.parse("{\"nav\":{\"home\":\"Home\",\"work\":\"Work\"},\"home\":{\"header\":\"Hello Laravel + VueJs\",\"sub-header\":\"It's family time!\",\"para\":\"Decided to travel the world? You would definitely need the ability to communicate in foreign languages to understand the mind and context of that other culture. English to French translation service by ImTranslator will assist you in getting an instant translation of words, phrases and texts from English to French and other languages.\"},\"work\":{\"header\":\"Simple Single Page Application\",\"sub-header\":\"It's working time!\",\"para\":\"English to French Translation provides the most convenient access to online translation service powered by various machine translation engines. English to French Translation tool includes online translation service, English-French reference dictionary, English and French text-to-speech services, English and French spell checking tools, on-screen keyboard for major languages, back translation, email client and much more. The most convenient translation environment ever created.\"}}");
 
 /***/ }),
 
@@ -55350,7 +55362,7 @@ module.exports = JSON.parse("{\"nav\":{\"home\":\"Home\",\"work\":\"Work\"},\"ho
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse("{\"nav\":{\"home\":\"D'accueil\",\"work\":\"Travail\"},\"home\":{\"header\":\"C'est le temps en famille!\"},\"work\":{\"header\":\"C'est le temps de travail!\"}}");
+module.exports = JSON.parse("{\"nav\":{\"home\":\"D'accueil\",\"work\":\"Travail\"},\"home\":{\"header\":\"Bonjour Laravel + VueJs\",\"sub-header\":\"C'est le temps en famille!\",\"para\":\"Décidé pour voyager le monde ? Vous auriez sans doute besoin de la capacité de communiquer dans les langues étrangères pour comprendre l'esprit et le contexte de cette autre culture. L'anglais au service de traduction français par ImTranslator vous aidera dans l'accomplissement d'une traduction immédiate de mots, expressions et textes de l'anglais au français et d'autres langues.\"},\"work\":{\"header\":\"Application simple à une seule page\",\"sub-header\":\"C'est le temps de travail!\",\"para\":\"L'anglais à la Traduction française fournit l'approche la plus convenable au service de traduction en ligne actionné par les moteurs de traduction automatique différents. L'anglais à l'instrument de Traduction français inclut le service de traduction en ligne, le dictionnaire de référence anglais-français, les services de texte-à-discours anglais et français, les instruments de contrôle de période anglais et français, le clavier sur-écran pour les langues importantes, l'arrière traduction, le client de courrier électronique et beaucoup plus. L'environnement de traduction le plus convenable jamais créé.\"}}");
 
 /***/ }),
 
