@@ -1,0 +1,12 @@
+{
+    "nav" : {
+        "home" : "D'accueil",
+        "work" : "Travail"
+    },
+    "home": {
+        "header": "C'est le temps en famille!"
+    },
+    "work": {
+        "header": "C'est le temps de travail!"
+    }  
+}

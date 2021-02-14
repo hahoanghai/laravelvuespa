@@ -1,0 +1,12 @@
+{
+    "nav" : {
+        "home" : "Home",
+        "work" : "Work"
+    },
+    "home": {
+        "header": "It's family time!"
+    },
+    "work": {
+        "header": "It's working time!"
+    }  
+}
