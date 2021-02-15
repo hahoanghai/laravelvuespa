@@ -25,6 +25,11 @@
             <h1>{{ $t('home.header') }}</h1>
             <h2>{{ $t('home.sub-header') }}</h2>
             <p>{{ $t('home.para') }}</p>
+            <div class="row">
+                <div class="col-md-8">
+                    <img :src='`/images/${$i18n.locale}.jpg`' class="img-fluid">
+                </div>
+            </div>
         </div>
     </div>
 </template>
